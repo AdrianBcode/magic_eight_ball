@@ -14,9 +14,13 @@ Life is full of uncertainties, and sometimes you just need a playful way to seek
 **Navigate to the project:**
 
 bash
+---
 Copy code
+---
 cd magic-eight-ball
+---
 Open the JavaScript file in your preferred editor.
+
 
 **Customize your experience:**
 
@@ -25,19 +29,21 @@ Use the userQuestion variable to set the context for your Magic Eight Ball inqui
 Run the script:
 
 bash
+---
 Copy code
+---
 node magicEightBall.js
+---
 Discover your fate! 🎱 🍀
 
 **Technologies Used**
 JavaScript (Vanilla)
-Code Structure
-greet(userName = ''): Greets the user with a customizable message.
-getMagicEightBallResponse(): Randomly selects a response from a list of predefined answers.
+
 
 **Technologies Used:**
 JavaScript (Vanilla) - without frameworks
 
 **Code Structure**
 greet(userName = ''): Greets the user with a customizable message.
+
 getMagicEightBallResponse(): Randomly selects a response from a list of predefined answers.
