@@ -14,9 +14,7 @@ Life is full of uncertainties, and sometimes you just need a playful way to seek
 **Navigate to the project:**
 
 bash
-
 Copy code
-
 cd magic-eight-ball
 
 Open the JavaScript file in your preferred editor.
@@ -35,9 +33,6 @@ Copy code
 node magicEightBall.js
 
 Discover your fate! 🎱 🍀
-
-**Technologies Used**
-JavaScript (Vanilla)
 
 
 **Technologies Used:**
