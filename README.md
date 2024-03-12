@@ -29,6 +29,12 @@ node magicEightBall.js
 Discover your fate! 🎱
 
 Technologies Used
+JavaScript (Vanilla)
+Code Structure
+greet(userName = ''): Greets the user with a customizable message.
+getMagicEightBallResponse(): Randomly selects a response from a list of predefined answers.
+
+Technologies Used
 JavaScript (Vanilla) - without frameworks
 
 Code Structure
