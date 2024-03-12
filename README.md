@@ -10,14 +10,15 @@ Life is full of uncertainties, and sometimes you just need a playful way to seek
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/your-username/magic-eight-ball.git
-Navigate to the project:
+
+**Navigate to the project:**
 
 bash
 Copy code
 cd magic-eight-ball
 Open the JavaScript file in your preferred editor.
 
-Customize your experience:
+**Customize your experience:**
 
 Modify the userName parameter in the greet function for a personalized greeting.
 Use the userQuestion variable to set the context for your Magic Eight Ball inquiry.
@@ -26,17 +27,17 @@ Run the script:
 bash
 Copy code
 node magicEightBall.js
-Discover your fate! 🎱
+Discover your fate! 🎱 🍀
 
-Technologies Used
+**Technologies Used**
 JavaScript (Vanilla)
 Code Structure
 greet(userName = ''): Greets the user with a customizable message.
 getMagicEightBallResponse(): Randomly selects a response from a list of predefined answers.
 
-Technologies Used
+**Technologies Used:**
 JavaScript (Vanilla) - without frameworks
 
-Code Structure
+**Code Structure**
 greet(userName = ''): Greets the user with a customizable message.
 getMagicEightBallResponse(): Randomly selects a response from a list of predefined answers.
