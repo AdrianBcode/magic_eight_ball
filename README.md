@@ -9,7 +9,7 @@ Life is full of uncertainties, and sometimes you just need a playful way to seek
 ## How to get started
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/magic-eight-ball.git
+   git clone https://github.com/AdrianBcode/magic-eight-ball.git
 
 **Navigate to the project:**
 
